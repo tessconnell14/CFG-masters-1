@@ -84,7 +84,7 @@ Handle duplicates:
 We checked for duplicates but there were none present in the data
 
 
-Assignment requirements:
+**Assignment requirements:**
 1. Identify a real-world problem you are interested in solving using data analytics
 2. Based on the problem identified, research and find a dataset that can help address this problem
 3. Conduct an in-depth Exploratory Data Analysis (EDA) on your dataset(s), identify key features, any interesting patterns or anomalies, and potential challenges in the data
