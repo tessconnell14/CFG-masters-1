@@ -85,7 +85,7 @@ We checked for duplicates but there were none present in the data
 
 
 Assignment requirements:
-Task 1: Identify a real-world problem you are interested in solving using data analytics
-Task 2: Based on the problem identified, research and find a dataset that can help address this problem
-Task 3: Conduct an in-depth Exploratory Data Analysis (EDA) on your dataset(s), identify key features, any interesting patterns or anomalies, and potential challenges in the data 
-Task 4: Perform and document the data cleaning process
+1. Identify a real-world problem you are interested in solving using data analytics
+2. Based on the problem identified, research and find a dataset that can help address this problem
+3. Conduct an in-depth Exploratory Data Analysis (EDA) on your dataset(s), identify key features, any interesting patterns or anomalies, and potential challenges in the data
+4. Perform and document the data cleaning process
