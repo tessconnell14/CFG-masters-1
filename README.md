@@ -60,11 +60,11 @@ Data cleaning steps that we took:
 - Handle outliers
 - Handle duplicates
 
-Remove unwanted columns
+Remove unwanted columns:
 - There were a number of columns that were not relevant to our data and which contained very high amounts of missing values
 - Unwanted columns and columns with more that 50% missing data were removed 
 
-Handle missing values
+Handle missing values:
 - There was a vast amount of data missing in the employed dataframe
 - Missing data in each column was handled differently as they were different data types/ had different purposes
 
@@ -77,15 +77,11 @@ ConvertedCompYearly: filled with the median, but machine learning may be used to
 Other columns:
 Other columns where data is categorical (e.g. organisation size, industry etc), missing vals were filled with the mode
 
-Handle outliers
+Handle outliers:
 We removed any observations where the salary data was more that 3 standard deviations from the mean
 
-Handle duplicates
+Handle duplicates:
 We checked for duplicates but there were none present in the data
-
-**References: 
-https://www.statista.com/statistics/627312/worldwide-developer-population/#:~:text=The%20global%20developer%20population%20is,the%20number%20seen%20in%202020.
-https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/
 
 
 Assignment requirements:
