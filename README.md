@@ -79,9 +79,11 @@ Other columns where data is categorical (e.g. organisation size, industry etc), 
 
 Handle outliers
 We removed any observations where the salary data was more that 3 standard deviations from the mean
-Handle duplicates- we checked for duplicates but there were none present in the data
 
-*References: 
+Handle duplicates
+We checked for duplicates but there were none present in the data
+
+**References: 
 https://www.statista.com/statistics/627312/worldwide-developer-population/#:~:text=The%20global%20developer%20population%20is,the%20number%20seen%20in%202020.
 https://stackoverflow.blog/2016/10/07/do-developers-need-college-degrees/
 
